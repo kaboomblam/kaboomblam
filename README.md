@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi 👋
+
+Currently; I am working on different *community solutions* for 💚 Zambia. I also create [video games](https://joshvhc.itch.io/) with my talented friends and solve problems with other creative folks.
 
 <!--
 **kaboomblam/kaboomblam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
