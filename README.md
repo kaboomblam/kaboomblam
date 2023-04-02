@@ -1,6 +1,6 @@
 ### Hi 👋
 
-Currently; I am working on different *community solutions* for 💚 Zambia. I also create [video games](https://joshvhc.itch.io/) for fun, and collaborate with many talented people 🙂👨‍🎨.
+Currently; I am working on different *community solutions*💚. I also create [video games](https://joshvhc.itch.io/) for fun, and collaborate with many talented people 🙂👨‍🎨.
 
 <!--
 **kaboomblam/kaboomblam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
