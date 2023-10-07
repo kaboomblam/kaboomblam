@@ -1,8 +1,8 @@
 ### Hello, I am Joshua 👋
 
-I am an: **_Animator_**, **_Game Developer_**, and **_Environmentalist_**.
+I make **Apps** and **Games** 🙂
 
-_follow on: [twitter](https://twitter.com/joshvhc), [instagram](https://www.instagram.com/joshvhc/), [itch.io](https://joshvhc.itch.io/)_ 
+_follow on: [X](https://twitter.com/joshvhc), [instagram](https://www.instagram.com/joshvhc/), [itch.io](https://joshvhc.itch.io/)_ 
 
 <!--
 **kaboomblam/kaboomblam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
